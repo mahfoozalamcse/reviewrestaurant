@@ -1,0 +1,18 @@
+# Environment
+.env
+.env.local
+
+# Node
+node_modules/
+
+# Build
+dist/
+.next/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
