@@ -540,7 +540,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Author**: Mahfooz Alam  
 **GitHub**: [@mahfoozalamcse](https://github.com/mahfoozalamcse)  
-**Email**: [Your Email]
+**Email**: [mahfoozalam1070@gmail.com]
 
 ### Getting Help
 
